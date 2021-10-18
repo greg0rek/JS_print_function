@@ -1,2 +1,2 @@
-# JS_print_function
-easy print in javascript
+# JS Print
+## easy print in javascript
